@@ -7,7 +7,7 @@ This containts an NLP of tweets pulled from twitter about Valdimir Putin 7 month
 - It is an attempt at NLP and any changes or improvments would be welcome
 
 ## Author
-Akhil John
+Akhil John.  
 email : akhilisaacjohn@gmail.com
 
 
